@@ -1,0 +1,10 @@
+.env
+.venv/
+node_modules/
+dist/
+data/
+shots/
+.netlify/
+__pycache__/
+.DS_Store
+deno.lock

@@ -1,0 +1,12 @@
+{
+  "display": 5,
+  "concurrency": 4,
+  "request_gap_ms": 150,
+  "retain_days": 3,
+  "max_articles": 600,
+  "max_images_per_run": 40,
+  "schedule": {
+    "market_hours": { "hours": [9, 15], "every_minutes": 10 },
+    "off_hours": { "every_minutes": 60 }
+  }
+}
